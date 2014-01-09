@@ -49,7 +49,7 @@ def main():
 
             out.write(u"{0}".format(tabulate(r,
                                              headers="keys",
-                                             tablefmt="grid")))
+                                             tablefmt="pipe")))
     else:
         print parser.print_help()
 
