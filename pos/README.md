@@ -38,9 +38,9 @@ Example:
 
 To generate all entries:
 
-    python ../utils/tagstat.py -L lexicon-id.json -I id-news.pos -O id-news-stat.md
+    python ../utils/tagstat.py -L pos/lexicon-id-gtrans.json -I id-news.pos -O id-news-stat.md
 
 To generate maximum `NUM` entires:
 
-    python ../utils/tagstat.py -L lexicon-id.json -I id-news.pos -O id-news-stat.md -M 500
+    python ../utils/tagstat.py -L pos/lexicon-id-gtrans.json -I id-news.pos -O id-news-stat.md -M 500
 
