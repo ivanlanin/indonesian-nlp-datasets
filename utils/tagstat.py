@@ -40,7 +40,12 @@ def main():
                  "Found": [],
                  "Lexicon": []}
 
-            for word, count in wc.most_common(int(args.max) or None):
+            if args.max:
+                max_num = int(args.max)
+            else:
+                max_num = None
+
+            for word, count in wc.most_common(max_num):
                 r["Words"].append(word)
                 r["Count"].append(count)
                 tg = set()
