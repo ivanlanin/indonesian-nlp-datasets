@@ -1,6 +1,10 @@
 Indonesian POS Tag Datasets
 ===========================
 
+**Note: This is a work in progress dataset.**
+
+## Tagset
+
 This dataset is tagged using [Universal Part-of-Speech tagset](https://code.google.com/p/universal-pos-tags/).
 
 Classes used are:
@@ -20,6 +24,8 @@ Classes used are:
 | VERB  | Verbs                                     |
 | X     | Abbreviations, foreign words, typos, etc. |
 
+
+## Statistics
 
 The `../utils/tagstat.py` script will show the following statistics about a tagged corpus.
 
