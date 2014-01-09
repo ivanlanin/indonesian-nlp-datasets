@@ -1,4 +1,6 @@
-indonesian-corpus
-=================
+Indonesian NLP Datasets
+=======================
 
-Indonesian corpus for for Natural Language Processing
+Indonesian Natural Language Processing datasets.
+
+
