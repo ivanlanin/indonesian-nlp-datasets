@@ -31,15 +31,16 @@ The `../utils/tagstat.py` script will show the following statistics about a tagg
 
 * total number of words
 * words
-* tags and the number of each tag occurs
+* tags and the number of each tag occurs ('*' mark: tag is not in Google translate tag list)
+* list of tags for each word according to Google Translate
 
 Example:
 
 To generate all entries:
 
-    python ../utils/tagstat.py -I id-news.pos -O id-news-stat.md
+    python ../utils/tagstat.py -L lexicon-id.json -I id-news.pos -O id-news-stat.md
 
 To generate maximum `NUM` entires:
 
-    python ../utils/tagstat.py -I id-news.pos -O id-news-stat.md -M 500
+    python ../utils/tagstat.py -L lexicon-id.json -I id-news.pos -O id-news-stat.md -M 500
 
