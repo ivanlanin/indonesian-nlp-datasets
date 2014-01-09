@@ -15,28 +15,41 @@ def main():
     """)
     parser.add_argument("-I", "--input", required=True, help="input file")
     parser.add_argument("-O", "--output", required=True, help="output file")
+    parser.add_argument("-M", "--max", help="maximum output")
     args = parser.parse_args()
 
     if args.input and args.output:
         with codecs.open(args.output, "w", "utf-8") as out:
-            word_tags = defaultdict(set)
-            word_counter = Counter()
-            wordtag_counter = Counter()
+            wt = defaultdict(set)
+            wc = Counter()
+            wtc = Counter()
+
             for sentence in codecs.open(args.input, "r", "utf-8"):
                 tokens = [str2tuple(token) for token in sentence.split()]
+
                 for word, tag in tokens:
-                    word_tags[word].add(tag)
-                    word_counter[word] += 1
-                    wordtag_counter[tuple2str((word, tag))] += 1
-            result = {"word": [], "count": [], "tags": []}
-            for word, count in word_counter.most_common():
-                result["word"].append(word)
-                result["count"].append(count)
-                tagged = set()
-                for tag in word_tags[word]:
-                    tagged.add(tuple2str((word, tag)))
-                result["tags"].append(", ".join([":".join([str(wordtag_counter[t]), t]) for t in tagged]))
-            out.write(u"{0}".format(tabulate(result, headers="keys", tablefmt="grid")))
+                    wt[word].add(tag)
+                    wc[word] += 1
+                    wtc[tuple2str((word, tag))] += 1
+
+            r = {"WORD": [], "COUNT": [], "TAGS": []}
+
+            for word, count in wc.most_common(int(args.max) or None):
+                r["WORD"].append(word)
+                r["COUNT"].append(count)
+                tg = set()
+
+                for tag in wt[word]:
+                    t = tuple2str((word, tag))
+                    tg.add((tag, wtc[t]))
+
+                tg = sorted(tg, key=lambda k: k[1], reverse=True)
+                r["TAGS"].append(", ".join([u"{0} ({1})".format(x, y)
+                                            for x, y in tg]))
+
+            out.write(u"{0}".format(tabulate(r,
+                                             headers="keys",
+                                             tablefmt="grid")))
     else:
         print parser.print_help()
 
