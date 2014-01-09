@@ -31,7 +31,7 @@ The `../utils/tagstat.py` script will show the following statistics about a tagg
 
 * total number of words
 * words
-* tags and the number of each tag occurs ('*' mark: tag is not in Google translate tag list)
+* tags and the number of each tag occurs ('*': word found in Google translate lexicon but tag is not in the taglist)
 * list of tags for each word according to Google Translate
 
 Example:
