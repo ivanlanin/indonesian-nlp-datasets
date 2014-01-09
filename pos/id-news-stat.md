@@ -1,502 +1,502 @@
-|   COUNT | WORD          | TAGS                                             |
-|--------:|:--------------|:-------------------------------------------------|
-|   79058 | ,             | . (79058)                                        |
-|   65601 | .             | . (65601)                                        |
-|   26490 | yang          | CONJ (26490)                                     |
-|   22802 | "             | . (22802)                                        |
-|   21774 | di            | ADP (21774)                                      |
-|   19910 | dan           | CONJ (19910)                                     |
-|   13432 | (             | . (13432)                                        |
-|   13400 | )             | . (13400)                                        |
-|   10911 | ini           | PRON (10911)                                     |
-|   10827 | dengan        | ADP (10827)                                      |
-|   10773 | itu           | PRON (10773)                                     |
-|    9674 | untuk         | ADP (9674)                                       |
-|    8804 | dari          | ADP (8804)                                       |
-|    7581 | akan          | ADP (7581)                                       |
-|    7322 | tidak         | ADV (7322)                                       |
-|    6558 | dalam         | ADP (6558)                                       |
-|    6423 | pada          | ADP (6423)                                       |
-|    5138 | -             | . (5138)                                         |
-|    5103 | juga          | ADV (5103)                                       |
-|    4947 | tersebut      | ADJ (4947)                                       |
-|    4788 | ke            | ADP (4788)                                       |
-|    4100 | bisa          | VERB (4100)                                      |
-|    3530 | ada           | VERB (3530)                                      |
-|    3476 | tahun         | NOUN (3476)                                      |
-|    3467 | menjadi       | VERB (3467)                                      |
-|    3400 | sudah         | ADV (3400)                                       |
-|    3389 | karena        | CONJ (3389)                                      |
-|    3385 | saat          | NOUN (3385)                                      |
-|    3311 | mereka        | PRON (3311)                                      |
-|    3178 | saya          | PRON (3178)                                      |
-|    3088 | Indonesia     | NOUN (3088)                                      |
-|    3040 | kata          | VERB (2333), NOUN (707)                          |
-|    2828 | lebih         | ADJ (2828)                                       |
-|    2744 | sebagai       | ADP (2744)                                       |
-|    2657 | oleh          | ADP (2657)                                       |
-|    2619 | Jakarta       | NOUN (2619)                                      |
-|    2610 | telah         | ADV (2610)                                       |
-|    2559 | dia           | PRON (2559)                                      |
-|    2548 | adalah        | VERB (2548)                                      |
-|    2493 | masih         | ADV (2493)                                       |
-|    2467 | satu          | NUM (2467)                                       |
-|    2389 | kami          | PRON (2389)                                      |
-|    2361 | pemain        | NOUN (2361)                                      |
-|    2345 | harus         | VERB (2345)                                      |
-|    2278 | seperti       | ADP (1293), ADV (716), CONJ (269)                |
-|    2268 | atau          | CONJ (2268)                                      |
-|    2241 | kepada        | ADP (2241)                                       |
-|    2198 | bahwa         | CONJ (2198)                                      |
-|    2198 | hanya         | ADV (2198)                                       |
-|    2196 | mengatakan    | VERB (2196)                                      |
-|    2114 | dua           | NUM (2114)                                       |
-|    2096 | tak           | ADV (2096)                                       |
-|    2047 | Merdeka.com   | NOUN (2047)                                      |
-|    2043 | tim           | NOUN (2043)                                      |
-|    2009 | lalu          | ADJ (2009)                                       |
-|    1957 | melakukan     | VERB (1957)                                      |
-|    1934 | orang         | NOUN (1934)                                      |
-|    1850 | Saya          | PRON (1849), NOUN (1)                            |
-|    1826 | Namun         | CONJ (1826)                                      |
-|    1816 | hari          | NOUN (1816)                                      |
-|    1762 | belum         | ADV (1762)                                       |
-|    1742 | para          | PRT (1742)                                       |
-|    1714 | setelah       | ADV (1714)                                       |
-|    1653 | banyak        | ADJ (1317), ADV (336)                            |
-|    1627 | baru          | ADJ (1627)                                       |
-|    1587 | dapat         | VERB (1587)                                      |
-|    1577 | saja          | ADV (1577)                                       |
-|    1566 | Anda          | PRON (1018), NOUN (548)                          |
-|    1546 | sangat        | ADV (1546)                                       |
-|    1536 | bagi          | ADP (1536)                                       |
-|    1513 | beberapa      | ADV (1513)                                       |
-|    1503 | Rp            | . (863), NOUN (640)                              |
-|    1468 | pun           | X (1468)                                         |
-|    1464 | merupakan     | VERB (1464)                                      |
-|    1460 | kita          | PRON (1460)                                      |
-|    1458 | memiliki      | VERB (1458)                                      |
-|    1439 | kembali       | VERB (1439)                                      |
-|    1431 | baik          | ADJ (1431)                                       |
-|    1425 | katanya       | VERB (1233), PRON (192)                          |
-|    1408 | musim         | NOUN (1408)                                      |
-|    1401 | membuat       | VERB (1401)                                      |
-|    1372 | '             | . (1372)                                         |
-|    1370 | lain          | ADJ (1370)                                       |
-|    1369 | atas          | NOUN (1368), ADJ (1)                             |
-|    1367 | lagi          | ADV (1356), ADP (11)                             |
-|    1359 | pertandingan  | NOUN (1359)                                      |
-|    1354 | hingga        | ADP (1354)                                       |
-|    1346 | secara        | ADP (1346)                                       |
-|    1346 | besar         | ADJ (1346)                                       |
-|    1319 | ia            | PRON (1319)                                      |
-|    1300 | rumah         | NOUN (1300)                                      |
-|    1281 | dilakukan     | VERB (1281)                                      |
-|    1276 | kedua         | NUM (1276)                                       |
-|    1265 | hal           | NOUN (1265)                                      |
-|    1250 | Kami          | PRON (1250)                                      |
-|    1242 | pertama       | NUM (1242)                                       |
-|    1224 | waktu         | NOUN (1224)                                      |
-|    1217 | jika          | CONJ (1217)                                      |
-|    1183 | tiga          | NUM (1183)                                       |
-|    1171 | memang        | ADV (1170), NOUN (1)                             |
-|    1152 | selama        | NOUN (1152)                                      |
-|    1146 | terjadi       | VERB (1146)                                      |
-|    1137 | ingin         | VERB (1137)                                      |
-|    1134 | depan         | NOUN (1134)                                      |
-|    1133 | dunia         | NOUN (1133)                                      |
-|    1132 | kali          | NOUN (1132)                                      |
-|    1132 | tetap         | ADJ (1132)                                       |
-|    1122 | Dia           | PRON (981), NOUN (140), VERB (1)                 |
-|    1114 | negara        | NOUN (1114)                                      |
-|    1109 | Menurut       | VERB (1109)                                      |
-|    1107 | juta          | NOUN (1107)                                      |
-|    1099 | sama          | ADJ (871), NOUN (228)                            |
-|    1093 | ujar          | VERB (1093)                                      |
-|    1092 | salah         | ADJ (1092)                                       |
-|    1073 | memberikan    | VERB (1073)                                      |
-|    1044 | pemerintah    | NOUN (1044)                                      |
-|    1041 | namun         | NOUN (980), CONJ (61)                            |
-|    1040 | agar          | CONJ (1040)                                      |
-|    1040 | warga         | NOUN (1040)                                      |
-|    1026 | serta         | CONJ (1026)                                      |
-|    1024 | sendiri       | ADJ (1024)                                       |
-|    1017 | terhadap      | VERB (1013), ADP (4)                             |
-|    1014 | kasus         | NOUN (1014)                                      |
-|    1008 | Sementara     | ADJ (1008)                                       |
-|    1002 | bersama       | VERB (1002)                                      |
-|    1000 | ketika        | CONJ (1000)                                      |
-|     988 | mengaku       | VERB (988)                                       |
-|     983 | masyarakat    | NOUN (983)                                       |
-|     978 | gol           | NOUN (978)                                       |
-|     972 | Ketua         | NOUN (972)                                       |
-|     965 | sekitar       | NUM (965)                                        |
-|     954 | Kapanlagi.com | NOUN (954)                                       |
-|     948 | seorang       | NOUN (948)                                       |
-|     946 | tapi          | CONJ (821), NOUN (125)                           |
-|     938 | sebuah        | NOUN (938)                                       |
-|     937 | hasil         | NOUN (937)                                       |
-|     933 | Di            | ADP (933)                                        |
-|     932 | semua         | ADJ (932)                                        |
-|     930 | laga          | NOUN (930)                                       |
-|     929 | antara        | ADP (929)                                        |
-|     918 | Ia            | PRON (918)                                       |
-|     912 | pihak         | NOUN (912)                                       |
-|     898 | Selain        | ADP (708), ADV (121), X (69)                     |
-|     898 | anggota       | NOUN (898)                                       |
-|     896 | melalui       | VERB (896)                                       |
-|     894 | langsung      | ADV (570), ADJ (324)                             |
-|     887 | Dalam         | ADP (887)                                        |
-|     871 | persen        | NOUN (871)                                       |
-|     865 | pernah        | ADV (865)                                        |
-|     864 | sehingga      | CONJ (864)                                       |
-|     863 | bulan         | NOUN (863)                                       |
-|     862 | bermain       | VERB (862)                                       |
-|     860 | Kamis         | NOUN (860)                                       |
-|     847 | anak          | NOUN (847)                                       |
-|     844 | berada        | VERB (844)                                       |
-|     842 | terus         | ADV (826), VERB (12), NOUN (4)                   |
-|     841 | bukan         | ADV (841)                                        |
-|     840 | sejak         | CONJ (840)                                       |
-|     838 | mampu         | ADJ (818), NOUN (20)                             |
-|     837 | asal          | NOUN (837)                                       |
-|     827 | Rabu          | NOUN (827)                                       |
-|     825 | :             | . (825)                                          |
-|     824 | diri          | VERB (824)                                       |
-|     824 | cukup         | ADJ (824)                                        |
-|     823 | pelatih       | NOUN (823)                                       |
-|     819 | klub          | NOUN (819)                                       |
-|     819 | Senin         | NOUN (819)                                       |
-|     816 | mulai         | VERB (810), NOUN (6)                             |
-|     803 | Jumat         | NOUN (803)                                       |
-|     800 | Selasa        | NOUN (800)                                       |
-|     799 | Liga          | NOUN (799)                                       |
-|     794 | PT            | NOUN (794)                                       |
-|     788 | lainnya       | PRON (788)                                       |
-|     778 | ?             | . (778)                                          |
-|     776 | kini          | NOUN (776)                                       |
-|     772 | sampai        | VERB (772)                                       |
-|     762 | menit         | VERB (686), NOUN (76)                            |
-|     758 | kalau         | CONJ (561), NOUN (197)                           |
-|     757 | AS            | NOUN (757)                                       |
-|     756 | berhasil      | VERB (756)                                       |
-|     755 | sedang        | ADV (755)                                        |
-|     753 | Presiden      | NOUN (753)                                       |
-|     753 | masuk         | VERB (753)                                       |
-|     752 | KPK           | NOUN (752)                                       |
-|     740 | jadi          | ADV (637), ADJ (103)                             |
-|     739 | JAKARTA       | NOUN (739)                                       |
-|     738 | dirinya       | VERB (737), NOUN (1)                             |
-|     732 | tentang       | NOUN (366), ADP (353), VERB (13)                 |
-|     719 | masalah       | NOUN (719)                                       |
-|     718 | poin          | NOUN (718)                                       |
-|     718 | Tapi          | CONJ (629), NOUN (89)                            |
-|     717 | mobil         | NOUN (717)                                       |
-|     714 | menyatakan    | VERB (714)                                       |
-|     714 | Mereka        | PRON (714)                                       |
-|     714 | tempat        | NOUN (714)                                       |
-|     710 | luar          | NOUN (710)                                       |
-|     707 | sebelumnya    | NOUN (707)                                       |
-|     704 | *             | . (704)                                          |
-|     698 | korban        | NOUN (698)                                       |
-|     698 | Ini           | PRON (690), NOUN (8)                             |
-|     696 | empat         | NUM (696)                                        |
-|     684 | akhir         | NOUN (684)                                       |
-|     682 | menggunakan   | VERB (682)                                       |
-|     677 | 2012          | NUM (677)                                        |
-|     677 | /             | . (677)                                          |
-|     675 | mendapatkan   | VERB (675)                                       |
-|     674 | tetapi        | CONJ (674)                                       |
-|     670 | Selatan       | NOUN (670)                                       |
-|     666 | kemudian      | NOUN (666)                                       |
-|     662 | DPR           | NOUN (662)                                       |
-|     662 | apa           | PRON (656), ADP (5), NOUN (1)                    |
-|     660 | mencapai      | VERB (660)                                       |
-|     658 | melawan       | VERB (655), NOUN (3)                             |
-|     657 | mendapat      | VERB (657)                                       |
-|     656 | tengah        | NOUN (656)                                       |
-|     655 | Pada          | ADP (655)                                        |
-|     655 | Untuk         | ADV (655)                                        |
-|     654 | tampil        | VERB (654)                                       |
-|     652 | tahu          | VERB (632), NOUN (20)                            |
-|     650 | harga         | NOUN (650)                                       |
-|     649 | daerah        | NOUN (649)                                       |
-|     648 | maka          | CONJ (455), NOUN (189), VERB (4)                 |
-|     648 | Saat          | NOUN (648)                                       |
-|     645 | sejumlah      | NOUN (645)                                       |
-|     636 | sempat        | ADV (636)                                        |
-|     632 | yakni         | CONJ (359), NOUN (271), VERB (2)                 |
-|     628 | miliar        | NOUN (628)                                       |
-|     626 | jelas         | ADJ (626)                                        |
-|     625 | mantan        | ADJ (514), NOUN (111)                            |
-|     623 | terakhir      | ADJ (623)                                        |
-|     619 | polisi        | NOUN (619)                                       |
-|     619 | hukum         | NOUN (619)                                       |
-|     619 | 10            | NUM (619)                                        |
-|     614 | nanti         | NOUN (614)                                       |
-|     611 | posisi        | NOUN (611)                                       |
-|     604 | perusahaan    | NOUN (604)                                       |
-|     603 | mengalami     | VERB (603)                                       |
-|     601 | Minggu        | NOUN (601)                                       |
-|     600 | kemenangan    | NOUN (600)                                       |
-|     600 | terkait       | VERB (600)                                       |
-|     598 | sebelum       | ADV (587), NOUN (11)                             |
-|     594 | Inggris       | NOUN (594)                                       |
-|     593 | babak         | NOUN (593)                                       |
-|     593 | Kota          | NOUN (593)                                       |
-|     591 | Dengan        | NOUN (591)                                       |
-|     591 | malam         | NOUN (591)                                       |
-|     588 | pekan         | NOUN (588)                                       |
-|     587 | Hal           | NOUN (587)                                       |
-|     585 | Partai        | NOUN (585)                                       |
-|     582 | awal          | NOUN (581), ADJ (1)                              |
-|     582 | berharap      | VERB (582)                                       |
-|     581 | 1             | NUM (581)                                        |
-|     581 | lima          | NUM (581)                                        |
-|     577 | selalu        | ADV (577)                                        |
-|     577 | melihat       | VERB (577)                                       |
-|     576 | kondisi       | NOUN (576)                                       |
-|     571 | uang          | NOUN (571)                                       |
-|     571 | Jawa          | NOUN (571)                                       |
-|     570 | berbagai      | ADJ (570)                                        |
-|     570 | sebesar       | NOUN (570)                                       |
-|     570 | pukul         | NOUN (570)                                       |
-|     564 | setiap        | NUM (564)                                        |
-|     563 | termasuk      | VERB (563)                                       |
-|     560 | bagian        | NOUN (560)                                       |
-|     558 | Madrid        | NOUN (558)                                       |
-|     557 | merasa        | VERB (557)                                       |
-|     555 | Barat         | NOUN (555)                                       |
-|     553 | Sabtu         | NOUN (553)                                       |
-|     553 | tersangka     | ADJ (553)                                        |
-|     552 | The           | NOUN (552)                                       |
-|     551 | bola          | NOUN (551)                                       |
-|     550 | segera        | ADV (525), NOUN (25)                             |
-|     548 | Kalau         | CONJ (301), NOUN (247)                           |
-|     548 | datang        | VERB (548)                                       |
-|     546 | perlu         | VERB (538), NOUN (8)                             |
-|     546 | sementara     | ADJ (544), NOUN (2)                              |
-|     545 | juara         | NOUN (545)                                       |
-|     543 | mengenai      | VERB (543)                                       |
-|     543 | kota          | NOUN (543)                                       |
-|     543 | mau           | VERB (543)                                       |
-|     539 | mendatang     | VERB (539)                                       |
-|     539 | mungkin       | ADV (539)                                        |
-|     539 | Setelah       | ADV (536), NOUN (3)                              |
-|     539 | masa          | NOUN (539)                                       |
-|     536 | %             | . (536)                                          |
-|     535 | lama          | ADJ (535)                                        |
-|     532 | tanpa         | ADP (532)                                        |
-|     532 | ujarnya       | VERB (504), PRON (28)                            |
-|     530 | meminta       | VERB (530)                                       |
-|     529 | Menteri       | NOUN (529)                                       |
-|     527 | punya         | NOUN (512), PRON (15)                            |
-|     524 | KOMPAS.com    | NOUN (524)                                       |
-|     524 | Timur         | NOUN (524)                                       |
-|     522 | seluruh       | NUM (522)                                        |
-|     521 | akhirnya      | PRON (508), ADV (13)                             |
-|     518 | tinggi        | ADJ (518)                                        |
-|     518 | Jika          | CONJ (514), NOUN (4)                             |
-|     514 | partai        | NOUN (514)                                       |
-|     512 | meraih        | VERB (512)                                       |
-|     510 | wilayah       | NOUN (510)                                       |
-|     509 | nama          | NOUN (509)                                       |
-|     494 | penting       | ADJ (491), NOUN (3)                              |
-|     494 | Meski         | CONJ (446), NOUN (48)                            |
-|     493 | Piala         | NOUN (493)                                       |
-|     492 | Karena        | CONJ (385), NOUN (107)                           |
-|     487 | per           | NOUN (487)                                       |
-|     487 | Kita          | NOUN (487)                                       |
-|     485 | membawa       | VERB (485)                                       |
-|     485 | jalan         | NOUN (485)                                       |
-|     483 | sekarang      | NOUN (483)                                       |
-|     481 | paling        | ADV (481)                                        |
-|     481 | terbaik       | ADJ (481)                                        |
-|     472 | Amerika       | NOUN (472)                                       |
-|     470 | menghadapi    | VERB (470)                                       |
-|     470 | WIB           | NOUN (470)                                       |
-|     470 | acara         | NOUN (470)                                       |
-|     469 | semakin       | NOUN (457), ADV (12)                             |
-|     469 | Milan         | NOUN (469)                                       |
-|     468 | proses        | NOUN (468)                                       |
-|     467 | yaitu         | CONJ (305), NOUN (161), NUM (1)                  |
-|     466 | negeri        | NOUN (466)                                       |
-|     465 | Kepala        | NOUN (465)                                       |
-|     465 | dana          | NOUN (465)                                       |
-|     463 | kerja         | NOUN (463)                                       |
-|     462 | gelar         | NOUN (462)                                       |
-|     459 | menerima      | VERB (459)                                       |
-|     459 | jumlah        | NOUN (459)                                       |
-|     459 | wanita        | NOUN (459)                                       |
-|     458 | program       | NOUN (458)                                       |
-|     454 | film          | NOUN (454)                                       |
-|     454 | begitu        | PRON (449), NOUN (3), VERB (2)                   |
-|     453 | demikian      | PRON (275), ADV (175), NOUN (3)                  |
-|     452 | menambahkan   | VERB (452)                                       |
-|     451 | pasar         | NOUN (451)                                       |
-|     450 | bakal         | VERB (266), NOUN (184)                           |
-|     449 | utama         | ADJ (449)                                        |
-|     449 | Komisi        | NOUN (449)                                       |
-|     445 | 20            | NUM (445)                                        |
-|     444 | DKI           | NOUN (444)                                       |
-|     444 | bagus         | ADJ (444)                                        |
-|     443 | adanya        | NOUN (442), PRON (1)                             |
-|     439 | mencetak      | VERB (439)                                       |
-|     439 | maupun        | ADV (438), NOUN (1)                              |
-|     434 | Kabupaten     | NOUN (434)                                       |
-|     432 | United        | NOUN (432)                                       |
-|     431 | ketiga        | NUM (431)                                        |
-|     431 | pria          | NOUN (431)                                       |
-|     430 | siap          | VERB (429), ADJ (1)                              |
-|     430 | akibat        | NOUN (430)                                       |
-|     426 | Eropa         | NOUN (426)                                       |
-|     425 | bekerja       | VERB (345), NOUN (80)                            |
-|     424 | Jadi          | ADV (424)                                        |
-|     424 | biasa         | ADJ (422), NOUN (2)                              |
-|     424 | wartawan      | NOUN (424)                                       |
-|     424 | Umum          | ADJ (414), NOUN (10)                             |
-|     423 | rasa          | NOUN (423)                                       |
-|     422 | bawah         | NOUN (422)                                       |
-|     421 | nasional      | ADJ (421)                                        |
-|     418 | berlangsung   | VERB (418)                                       |
-|     418 | calon         | NOUN (418)                                       |
-|     417 | diketahui     | VERB (417)                                       |
-|     416 | umum          | ADJ (416)                                        |
-|     416 | bahkan        | ADV (416)                                        |
-|     416 | keluarga      | NOUN (416)                                       |
-|     416 | final         | NOUN (416)                                       |
-|     416 | usai          | VERB (415), NOUN (1)                             |
-|     415 | Real          | NOUN (390), ADJ (25)                             |
-|     415 | menang        | VERB (415)                                       |
-|     415 | lanjut        | ADJ (407), NOUN (7), VERB (1)                    |
-|     411 | Bahkan        | ADV (411)                                        |
-|     409 | Italia        | NOUN (409)                                       |
-|     409 | Chelsea       | NOUN (409)                                       |
-|     408 | pasangan      | NOUN (408)                                       |
-|     408 | memberi       | VERB (408)                                       |
-|     406 | air           | NOUN (406)                                       |
-|     404 | politik       | NOUN (404)                                       |
-|     404 | Polri         | NOUN (404)                                       |
-|     404 | muda          | ADJ (404)                                        |
-|     403 | cara          | NOUN (403)                                       |
-|     402 | menegaskan    | VERB (402)                                       |
-|     399 | Tidak         | NOUN (399)                                       |
-|     399 | kawasan       | NOUN (399)                                       |
-|     399 | kecil         | ADJ (398), NOUN (1)                              |
-|     399 | aksi          | NOUN (399)                                       |
-|     398 | Spanyol       | NOUN (398)                                       |
-|     396 | memilih       | VERB (396)                                       |
-|     396 | sesuai        | ADJ (391), NOUN (5)                              |
-|     395 | terlihat      | ADJ (395)                                        |
-|     392 | menjelaskan   | VERB (392)                                       |
-|     391 | enam          | NUM (391)                                        |
-|     391 | kesempatan    | NOUN (391)                                       |
-|     390 | ribu          | NOUN (390)                                       |
-|     389 | surat         | NOUN (389)                                       |
-|     388 | aku           | PRON (388)                                       |
-|     387 | menurut       | VERB (387)                                       |
-|     386 | Wakil         | NOUN (386)                                       |
-|     386 | menunjukkan   | VERB (386)                                       |
-|     385 | resmi         | ADJ (383), NOUN (2)                              |
-|     385 | mana          | NOUN (385)                                       |
-|     383 | membantu      | VERB (383)                                       |
-|     382 | keras         | ADJ (382)                                        |
-|     381 | kurang        | ADP (381)                                        |
-|     381 | Sebelumnya    | NOUN (381)                                       |
-|     380 | dilansir      | VERB (380)                                       |
-|     380 | berusia       | VERB (380)                                       |
-|     380 | Yang          | NOUN (380)                                       |
-|     378 | pihaknya      | PRON (378)                                       |
-|     377 | --            | . (377)                                          |
-|     375 | 2             | NUM (375)                                        |
-|     375 | soal          | NOUN (373), NUM (2)                              |
-|     375 | 2011          | NUM (375)                                        |
-|     374 | lapangan      | NOUN (374)                                       |
-|     373 | sebanyak      | ADV (222), NUM (121), ADJ (30)                   |
-|     373 | yakin         | ADJ (355), NOUN (18)                             |
-|     372 | Seperti       | ADV (218), ADP (70), CONJ (57), X (21), NOUN (6) |
-|     372 | turun         | VERB (372)                                       |
-|     369 | terlalu       | ADV (305), VERB (62), NOUN (2)                   |
-|     369 | Pemerintah    | NOUN (369)                                       |
-|     368 | jauh          | ADJ (364), NOUN (4)                              |
-|     368 | sekali        | NOUN (368)                                       |
-|     367 | Bandung       | NOUN (367)                                       |
-|     366 | keputusan     | NOUN (366)                                       |
-|     366 | Dari          | ADP (287), NOUN (79)                             |
-|     364 | lokasi        | NOUN (364)                                       |
-|     363 | sang          | NOUN (363)                                       |
-|     362 | jam           | NOUN (359), NUM (3)                              |
-|     362 | pelaku        | NOUN (362)                                       |
-|     361 | Gubernur      | NOUN (361)                                       |
-|     361 | 3             | NUM (361)                                        |
-|     360 | naik          | VERB (360)                                       |
-|     360 | Jalan         | NOUN (360)                                       |
-|     360 | Itu           | PRON (360)                                       |
-|     359 | 2013          | NUM (359)                                        |
-|     359 | lawan         | NOUN (359)                                       |
-|     356 | pasti         | ADJ (299), NOUN (57)                             |
-|     356 | sering        | ADJ (200), NOUN (156)                            |
-|     354 | mengikuti     | VERB (354)                                       |
-|     354 | petugas       | NOUN (354)                                       |
-|     353 | bertahan      | VERB (353)                                       |
-|     352 | Malaysia      | NOUN (352)                                       |
-|     352 | Bambang       | NOUN (352)                                       |
-|     351 | 2009          | NUM (351)                                        |
-|     350 | 30            | NUM (350)                                        |
-|     349 | internasional | ADJ (349)                                        |
-|     348 | menjalani     | VERB (348)                                       |
-|     347 | Australia     | NOUN (347)                                       |
-|     346 | Jepang        | NOUN (346)                                       |
-|     346 | cedera        | NOUN (337), VERB (6), ADJ (3)                    |
-|     346 | motor         | NOUN (346)                                       |
-|     345 | kemarin       | NOUN (345)                                       |
-|     344 | kompetisi     | NOUN (344)                                       |
-|     344 | Champions     | NOUN (344)                                       |
-|     343 | serangan      | NOUN (343)                                       |
-|     343 | sedikit       | ADJ (343)                                        |
-|     341 | angka         | NOUN (341)                                       |
-|     341 | Barcelona     | NOUN (341)                                       |
-|     341 | Bali          | NOUN (341)                                       |
-|     340 | Manchester    | NOUN (340)                                       |
-|     339 | latihan       | NOUN (339)                                       |
-|     339 | laporan       | NOUN (339)                                       |
-|     338 | Sedangkan     | NOUN (338)                                       |
-|     338 | sekolah       | NOUN (338)                                       |
-|     337 | korupsi       | NOUN (337)                                       |
-|     336 | sulit         | ADJ (326), NOUN (10)                             |
-|     335 | kantor        | NOUN (335)                                       |
-|     334 | digelar       | VERB (334)                                       |
-|     334 | peluang       | NOUN (334)                                       |
-|     334 | dulu          | NOUN (334)                                       |
-|     333 | Inter         | NOUN (333)                                       |
-|     333 | ikut          | VERB (333)                                       |
-|     332 | menilai       | VERB (332)                                       |
-|     332 | 15            | NUM (332)                                        |
-|     331 | timnya        | PRON (326), NOUN (5)                             |
-|     330 | dekat         | ADJ (329), NOUN (1)                              |
-|     330 | Utara         | NOUN (330)                                       |
-|     329 | kemungkinan   | NOUN (329)                                       |
-|     329 | Tim           | NOUN (329)                                       |
-|     328 | kegiatan      | NOUN (328)                                       |
-|     328 | kontrak       | NOUN (328)                                       |
-|     328 | City          | NOUN (328)                                       |
-|     325 | pertemuan     | NOUN (325)                                       |
-|     325 | kelompok      | NOUN (325)                                       |
-|     324 | Demokrat      | NOUN (324)                                       |
-|     324 | permainan     | NOUN (324)                                       |
-|     323 | kendaraan     | NOUN (323)                                       |
-|     322 | produk        | NOUN (322)                                       |
-|     321 | Negeri        | NOUN (321)                                       |
-|     321 | Pusat         | NOUN (321)                                       |
-|     320 | Surabaya      | NOUN (320)                                       |
-|     320 | hubungan      | NOUN (320)                                       |
-|     319 | Direktur      | NOUN (319)                                       |
-|     319 | ternyata      | VERB (319)                                       |
-|     319 | berjalan      | VERB (319)                                       |
-|     318 | keluar        | NOUN (232), VERB (86)                            |
-|     318 | 12            | NUM (318)                                        |
-|     317 | China         | NOUN (317)                                       |
-|     317 | berat         | VERB (289), ADJ (20), NOUN (8)                   |
-|     316 | kan           | X (316)                                          |
-|     316 | Dan           | NOUN (316)                                       |
-|     314 | Tak           | NOUN (314)                                       |
+|   Count | Found                                              | Lexicon                         | Words         |
+|--------:|:---------------------------------------------------|:--------------------------------|:--------------|
+|   79058 | . (79058)                                          |                                 | ,             |
+|   65601 | . (65601)                                          |                                 | .             |
+|   26490 | CONJ (26490)                                       | CONJ, PRON                      | yang          |
+|   22802 | . (22802)                                          |                                 | "             |
+|   21774 | ADP (21774)                                        | ADP                             | di            |
+|   19910 | CONJ (19910)                                       | ADP, CONJ                       | dan           |
+|   13432 | . (13432)                                          |                                 | (             |
+|   13400 | . (13400)                                          |                                 | )             |
+|   10911 | PRON (10911)                                       |                                 | ini           |
+|   10827 | ADP (10827)                                        | ADP, CONJ                       | dengan        |
+|   10773 | PRON (10773)                                       |                                 | itu           |
+|    9674 | ADP (9674)                                         | ADP, CONJ                       | untuk         |
+|    8804 | ADP (8804)                                         | ADP, ADV, CONJ                  | dari          |
+|    7581 | ADP (7581)                                         | ADP                             | akan          |
+|    7322 | ADV (7322)                                         | ADJ, ADV, CONJ, X               | tidak         |
+|    6558 | ADP (6558)                                         | ADJ, ADP, ADV, X                | dalam         |
+|    6423 | ADP (6423)                                         | ADJ, ADP                        | pada          |
+|    5138 | . (5138)                                           |                                 | -             |
+|    5103 | ADV (5103)                                         | ADV                             | juga          |
+|    4947 | ADJ (4947)                                         | ADJ                             | tersebut      |
+|    4788 | ADP (4788)                                         |                                 | ke            |
+|    4100 | VERB (4100)                                        | ADJ, NOUN, VERB                 | bisa          |
+|    3530 | VERB (3530)                                        | VERB, X                         | ada           |
+|    3476 | NOUN (3476)                                        | NOUN                            | tahun         |
+|    3467 | VERB (3467)                                        | ADP, VERB                       | menjadi       |
+|    3400 | ADV (3400)                                         | ADJ, ADV                        | sudah         |
+|    3389 | CONJ (3389)                                        | ADP, CONJ, NOUN                 | karena        |
+|    3385 | NOUN (3385)                                        | NOUN                            | saat          |
+|    3311 | PRON (3311)                                        |                                 | mereka        |
+|    3178 | PRON (3178)                                        | PRON                            | saya          |
+|    3088 | NOUN (3088)                                        |                                 | Indonesia     |
+|    3040 | VERB (2333), NOUN (707)                            | NOUN, VERB                      | kata          |
+|    2828 | ADJ* (2828)                                        | ADV, X                          | lebih         |
+|    2744 | ADP (2744)                                         | ADP, ADV, CONJ                  | sebagai       |
+|    2657 | ADP (2657)                                         | ADP                             | oleh          |
+|    2619 | NOUN (2619)                                        |                                 | Jakarta       |
+|    2610 | ADV (2610)                                         | ADV                             | telah         |
+|    2559 | PRON (2559)                                        | PRON                            | dia           |
+|    2548 | VERB (2548)                                        |                                 | adalah        |
+|    2493 | ADV (2493)                                         | ADV                             | masih         |
+|    2467 | NUM* (2467)                                        | ADJ, DET, NOUN, X               | satu          |
+|    2389 | PRON (2389)                                        | PRON                            | kami          |
+|    2361 | NOUN (2361)                                        | NOUN                            | pemain        |
+|    2345 | VERB (2345)                                        | VERB                            | harus         |
+|    2278 | ADP (1293), ADV (716), CONJ (269)                  | ADJ, ADP, ADV, CONJ             | seperti       |
+|    2268 | CONJ (2268)                                        | CONJ                            | atau          |
+|    2241 | ADP (2241)                                         | ADP                             | kepada        |
+|    2198 | CONJ (2198)                                        |                                 | bahwa         |
+|    2198 | ADV (2198)                                         | ADV                             | hanya         |
+|    2196 | VERB (2196)                                        | VERB                            | mengatakan    |
+|    2114 | NUM* (2114)                                        | NOUN, X                         | dua           |
+|    2096 | ADV (2096)                                         | ADV, NOUN, PRON                 | tak           |
+|    2047 | NOUN (2047)                                        |                                 | Merdeka.com   |
+|    2043 | NOUN (2043)                                        | NOUN                            | tim           |
+|    2009 | ADJ (2009)                                         | ADJ, ADV, CONJ, VERB            | lalu          |
+|    1957 | VERB (1957)                                        | VERB                            | melakukan     |
+|    1934 | NOUN (1934)                                        | CONJ, NOUN, PRON                | orang         |
+|    1850 | PRON (1849), NOUN* (1)                             | PRON                            | Saya          |
+|    1826 | CONJ (1826)                                        | ADV, CONJ                       | Namun         |
+|    1816 | NOUN (1816)                                        | NOUN                            | hari          |
+|    1762 | ADV (1762)                                         |                                 | belum         |
+|    1742 | PRT* (1742)                                        | NOUN, X                         | para          |
+|    1714 | ADV* (1714)                                        | ADP, CONJ, X                    | setelah       |
+|    1653 | ADJ (1317), ADV (336)                              | ADJ, ADV, NOUN, X               | banyak        |
+|    1627 | ADJ (1627)                                         | ADJ, ADV, NOUN                  | baru          |
+|    1587 | VERB (1587)                                        | ADJ, VERB, X                    | dapat         |
+|    1577 | ADV (1577)                                         | ADJ, ADV                        | saja          |
+|    1566 | PRON (1018), NOUN* (548)                           | PRON                            | Anda          |
+|    1546 | ADV (1546)                                         | ADJ, ADV, X, X                  | sangat        |
+|    1536 | ADP (1536)                                         | ADP, VERB                       | bagi          |
+|    1513 | ADV (1513)                                         | ADJ, ADV, PRON                  | beberapa      |
+|    1503 | . (863), NOUN (640)                                |                                 | Rp            |
+|    1468 | X* (1468)                                          | ADP, ADV, CONJ                  | pun           |
+|    1464 | VERB (1464)                                        | VERB                            | merupakan     |
+|    1460 | PRON (1460)                                        |                                 | kita          |
+|    1458 | VERB (1458)                                        | VERB                            | memiliki      |
+|    1439 | VERB (1439)                                        | ADV, NOUN, VERB, X              | kembali       |
+|    1431 | ADJ (1431)                                         | ADJ                             | baik          |
+|    1425 | VERB (1233), PRON (192)                            |                                 | katanya       |
+|    1408 | NOUN (1408)                                        | NOUN                            | musim         |
+|    1401 | VERB (1401)                                        | VERB                            | membuat       |
+|    1372 | . (1372)                                           |                                 | '             |
+|    1370 | ADJ (1370)                                         | ADJ, ADV                        | lain          |
+|    1369 | NOUN* (1368), ADJ (1)                              | ADJ, ADP, ADV                   | atas          |
+|    1367 | ADV (1356), ADP (11)                               | ADJ, ADP, ADV                   | lagi          |
+|    1359 | NOUN (1359)                                        | NOUN                            | pertandingan  |
+|    1354 | ADP (1354)                                         | ADP, ADV, CONJ                  | hingga        |
+|    1346 | ADP (1346)                                         | ADP, ADV                        | secara        |
+|    1346 | ADJ (1346)                                         | ADJ, X, X                       | besar         |
+|    1319 | PRON (1319)                                        | PRON                            | ia            |
+|    1300 | NOUN (1300)                                        | ADJ, NOUN                       | rumah         |
+|    1281 | VERB (1281)                                        |                                 | dilakukan     |
+|    1276 | NUM (1276)                                         |                                 | kedua         |
+|    1265 | NOUN (1265)                                        | NOUN                            | hal           |
+|    1250 | PRON (1250)                                        | PRON                            | Kami          |
+|    1242 | NUM* (1242)                                        | ADJ, ADV                        | pertama       |
+|    1224 | NOUN (1224)                                        | ADP, CONJ, NOUN                 | waktu         |
+|    1217 | CONJ (1217)                                        | CONJ                            | jika          |
+|    1183 | NUM (1183)                                         |                                 | tiga          |
+|    1171 | ADV (1170), NOUN* (1)                              | ADV, X                          | memang        |
+|    1152 | NOUN* (1152)                                       | ADP, ADV                        | selama        |
+|    1146 | VERB (1146)                                        | VERB, X                         | terjadi       |
+|    1137 | VERB (1137)                                        | VERB                            | ingin         |
+|    1134 | NOUN (1134)                                        | ADJ, NOUN                       | depan         |
+|    1133 | NOUN (1133)                                        | ADJ, NOUN                       | dunia         |
+|    1132 | NOUN (1132)                                        | ADV, NOUN, X                    | kali          |
+|    1132 | ADJ (1132)                                         | ADJ, ADV                        | tetap         |
+|    1122 | PRON (981), NOUN* (140), VERB* (1)                 | PRON                            | Dia           |
+|    1114 | NOUN (1114)                                        | NOUN                            | negara        |
+|    1109 | VERB (1109)                                        | ADJ, ADP, ADV, VERB, X          | Menurut       |
+|    1107 | NOUN (1107)                                        |                                 | juta          |
+|    1099 | ADJ (871), NOUN (228)                              | ADJ, ADP, ADV, NOUN, PRON, VERB | sama          |
+|    1093 | VERB (1093)                                        | NOUN, VERB                      | ujar          |
+|    1092 | ADJ (1092)                                         | ADJ, ADV, NOUN, VERB, X         | salah         |
+|    1073 | VERB (1073)                                        | VERB                            | memberikan    |
+|    1044 | NOUN (1044)                                        | NOUN                            | pemerintah    |
+|    1041 | NOUN* (980), CONJ (61)                             | ADV, CONJ                       | namun         |
+|    1040 | CONJ (1040)                                        | CONJ                            | agar          |
+|    1040 | NOUN (1040)                                        | NOUN                            | warga         |
+|    1026 | CONJ (1026)                                        | ADP, ADV, CONJ                  | serta         |
+|    1024 | ADJ (1024)                                         | ADJ, ADV, PRON, X, X            | sendiri       |
+|    1017 | VERB (1013), ADP (4)                               |                                 | terhadap      |
+|    1014 | NOUN (1014)                                        | NOUN                            | kasus         |
+|    1008 | ADJ (1008)                                         | ADJ, ADP, CONJ                  | Sementara     |
+|    1002 | VERB* (1002)                                       | ADJ, ADP, ADV, X                | bersama       |
+|    1000 | CONJ (1000)                                        | CONJ, NOUN                      | ketika        |
+|     988 | VERB (988)                                         | VERB                            | mengaku       |
+|     983 | NOUN (983)                                         | NOUN                            | masyarakat    |
+|     978 | NOUN (978)                                         | NOUN, VERB                      | gol           |
+|     972 | NOUN (972)                                         | NOUN                            | Ketua         |
+|     965 | NUM* (965)                                         | ADP, ADV                        | sekitar       |
+|     954 | NOUN (954)                                         |                                 | Kapanlagi.com |
+|     948 | NOUN (948)                                         |                                 | seorang       |
+|     946 | CONJ (821), NOUN (125)                             |                                 | tapi          |
+|     938 | NOUN (938)                                         |                                 | sebuah        |
+|     937 | NOUN (937)                                         | NOUN                            | hasil         |
+|     933 | ADP (933)                                          | ADP                             | Di            |
+|     932 | ADJ (932)                                          | ADJ, ADV                        | semua         |
+|     930 | NOUN (930)                                         | NOUN                            | laga          |
+|     929 | ADP (929)                                          | ADP, ADV, X                     | antara        |
+|     918 | PRON (918)                                         | PRON                            | Ia            |
+|     912 | NOUN (912)                                         | NOUN                            | pihak         |
+|     898 | ADP (708), ADV (121), X (69)                       |                                 | Selain        |
+|     898 | NOUN (898)                                         | NOUN                            | anggota       |
+|     896 | VERB (896)                                         | ADP, VERB                       | melalui       |
+|     894 | ADV (570), ADJ (324)                               | ADJ, ADV                        | langsung      |
+|     887 | ADP (887)                                          | ADJ, ADP, ADV, X                | Dalam         |
+|     871 | NOUN (871)                                         | NOUN                            | persen        |
+|     865 | ADV (865)                                          | ADV                             | pernah        |
+|     864 | CONJ (864)                                         |                                 | sehingga      |
+|     863 | NOUN (863)                                         | NOUN                            | bulan         |
+|     862 | VERB (862)                                         | VERB                            | bermain       |
+|     860 | NOUN (860)                                         |                                 | Kamis         |
+|     847 | NOUN (847)                                         | NOUN                            | anak          |
+|     844 | VERB (844)                                         | ADJ, VERB                       | berada        |
+|     842 | ADV (826), VERB (12), NOUN* (4)                    | ADP, ADV, VERB                  | terus         |
+|     841 | ADV (841)                                          | ADV                             | bukan         |
+|     840 | CONJ (840)                                         | ADP, CONJ                       | sejak         |
+|     838 | ADJ (818), NOUN* (20)                              | ADJ, VERB                       | mampu         |
+|     837 | NOUN (837)                                         | ADJ, CONJ, NOUN                 | asal          |
+|     827 | NOUN (827)                                         |                                 | Rabu          |
+|     825 | . (825)                                            |                                 | :             |
+|     824 | VERB* (824)                                        | NOUN, PRON                      | diri          |
+|     824 | ADJ (824)                                          | ADJ, ADV                        | cukup         |
+|     823 | NOUN (823)                                         | NOUN                            | pelatih       |
+|     819 | NOUN (819)                                         | NOUN                            | klub          |
+|     819 | NOUN (819)                                         |                                 | Senin         |
+|     816 | VERB (810), NOUN* (6)                              | ADP, VERB, X                    | mulai         |
+|     803 | NOUN (803)                                         |                                 | Jumat         |
+|     800 | NOUN (800)                                         |                                 | Selasa        |
+|     799 | NOUN (799)                                         | NOUN                            | Liga          |
+|     794 | NOUN (794)                                         |                                 | PT            |
+|     788 | PRON (788)                                         |                                 | lainnya       |
+|     778 | . (778)                                            |                                 | ?             |
+|     776 | NOUN* (776)                                        | ADJ, ADV                        | kini          |
+|     772 | VERB (772)                                         | ADP, ADV, CONJ, VERB            | sampai        |
+|     762 | VERB (686), NOUN (76)                              |                                 | menit         |
+|     758 | CONJ (561), NOUN* (197)                            | ADP, CONJ                       | kalau         |
+|     757 | NOUN (757)                                         | NOUN                            | AS            |
+|     756 | VERB (756)                                         | VERB, X                         | berhasil      |
+|     755 | ADV (755)                                          | ADJ, ADP, ADV                   | sedang        |
+|     753 | NOUN (753)                                         | NOUN                            | Presiden      |
+|     753 | VERB (753)                                         | NOUN, VERB, X                   | masuk         |
+|     752 | NOUN (752)                                         |                                 | KPK           |
+|     740 | ADV (637), ADJ (103)                               | ADJ, ADV, VERB                  | jadi          |
+|     739 | NOUN (739)                                         |                                 | JAKARTA       |
+|     738 | VERB (737), NOUN (1)                               |                                 | dirinya       |
+|     732 | NOUN* (366), ADP (353), VERB* (13)                 | ADP, ADV                        | tentang       |
+|     719 | NOUN (719)                                         | NOUN                            | masalah       |
+|     718 | NOUN (718)                                         |                                 | poin          |
+|     718 | CONJ (629), NOUN (89)                              |                                 | Tapi          |
+|     717 | NOUN (717)                                         | ADJ, NOUN                       | mobil         |
+|     714 | VERB (714)                                         | VERB                            | menyatakan    |
+|     714 | PRON (714)                                         |                                 | Mereka        |
+|     714 | NOUN (714)                                         | NOUN                            | tempat        |
+|     710 | NOUN* (710)                                        | ADJ, ADP                        | luar          |
+|     707 | NOUN (707)                                         |                                 | sebelumnya    |
+|     704 | . (704)                                            |                                 | *             |
+|     698 | NOUN (698)                                         | NOUN                            | korban        |
+|     698 | PRON (690), NOUN (8)                               |                                 | Ini           |
+|     696 | NUM (696)                                          |                                 | empat         |
+|     684 | NOUN (684)                                         | ADJ, NOUN                       | akhir         |
+|     682 | VERB (682)                                         | VERB                            | menggunakan   |
+|     677 | NUM (677)                                          |                                 | 2012          |
+|     677 | . (677)                                            |                                 | /             |
+|     675 | VERB (675)                                         | ADP, VERB                       | mendapatkan   |
+|     674 | CONJ (674)                                         | CONJ                            | tetapi        |
+|     670 | NOUN (670)                                         | ADJ, ADV, NOUN                  | Selatan       |
+|     666 | NOUN* (666)                                        | ADV, CONJ                       | kemudian      |
+|     662 | NOUN (662)                                         |                                 | DPR           |
+|     662 | PRON (656), ADP* (5), NOUN* (1)                    | ADV, CONJ, PRON                 | apa           |
+|     660 | VERB (660)                                         |                                 | mencapai      |
+|     658 | VERB (655), NOUN* (3)                              | ADP, ADV, VERB                  | melawan       |
+|     657 | VERB (657)                                         | VERB                            | mendapat      |
+|     656 | NOUN (656)                                         | ADJ, ADP, NOUN                  | tengah        |
+|     655 | ADP (655)                                          | ADJ, ADP                        | Pada          |
+|     655 | ADV* (655)                                         | ADP, CONJ                       | Untuk         |
+|     654 | VERB (654)                                         | VERB                            | tampil        |
+|     652 | VERB (632), NOUN* (20)                             | ADV, VERB                       | tahu          |
+|     650 | NOUN (650)                                         | NOUN                            | harga         |
+|     649 | NOUN (649)                                         | ADJ, NOUN                       | daerah        |
+|     648 | CONJ (455), NOUN* (189), VERB* (4)                 | ADV, CONJ                       | maka          |
+|     648 | NOUN (648)                                         | NOUN                            | Saat          |
+|     645 | NOUN (645)                                         | ADJ, ADV, NOUN, X               | sejumlah      |
+|     636 | ADV* (636)                                         | VERB, X                         | sempat        |
+|     632 | CONJ (359), NOUN* (271), VERB* (2)                 | ADV, CONJ, X, X                 | yakni         |
+|     628 | NOUN (628)                                         |                                 | miliar        |
+|     626 | ADJ (626)                                          |                                 | jelas         |
+|     625 | ADJ (514), NOUN (111)                              |                                 | mantan        |
+|     623 | ADJ (623)                                          | ADJ, ADV                        | terakhir      |
+|     619 | NOUN (619)                                         | NOUN                            | polisi        |
+|     619 | NOUN (619)                                         | ADJ, NOUN                       | hukum         |
+|     619 | NUM (619)                                          |                                 | 10            |
+|     614 | NOUN* (614)                                        | ADJ, ADV, VERB                  | nanti         |
+|     611 | NOUN (611)                                         | NOUN                            | posisi        |
+|     604 | NOUN (604)                                         | NOUN                            | perusahaan    |
+|     603 | VERB (603)                                         |                                 | mengalami     |
+|     601 | NOUN (601)                                         |                                 | Minggu        |
+|     600 | NOUN (600)                                         | NOUN                            | kemenangan    |
+|     600 | VERB (600)                                         |                                 | terkait       |
+|     598 | ADV (587), NOUN (11)                               |                                 | sebelum       |
+|     594 | NOUN (594)                                         |                                 | Inggris       |
+|     593 | NOUN (593)                                         | NOUN                            | babak         |
+|     593 | NOUN (593)                                         | NOUN                            | Kota          |
+|     591 | NOUN* (591)                                        | ADP, CONJ                       | Dengan        |
+|     591 | NOUN (591)                                         | ADJ, NOUN, X                    | malam         |
+|     588 | NOUN (588)                                         | NOUN                            | pekan         |
+|     587 | NOUN (587)                                         | NOUN                            | Hal           |
+|     585 | NOUN (585)                                         | NOUN                            | Partai        |
+|     582 | NOUN (581), ADJ (1)                                | ADJ, ADV, NOUN                  | awal          |
+|     582 | VERB (582)                                         | VERB                            | berharap      |
+|     581 | NUM (581)                                          |                                 | 1             |
+|     581 | NUM (581)                                          |                                 | lima          |
+|     577 | ADV (577)                                          | ADV                             | selalu        |
+|     577 | VERB (577)                                         | VERB, X                         | melihat       |
+|     576 | NOUN (576)                                         | NOUN                            | kondisi       |
+|     571 | NOUN (571)                                         | NOUN, X                         | uang          |
+|     571 | NOUN (571)                                         |                                 | Jawa          |
+|     570 | ADJ (570)                                          | ADJ                             | berbagai      |
+|     570 | NOUN (570)                                         |                                 | sebesar       |
+|     570 | NOUN (570)                                         | ADV, NOUN                       | pukul         |
+|     564 | NUM (564)                                          |                                 | setiap        |
+|     563 | VERB (563)                                         | ADJ, ADP, VERB                  | termasuk      |
+|     560 | NOUN (560)                                         | NOUN                            | bagian        |
+|     558 | NOUN (558)                                         |                                 | Madrid        |
+|     557 | VERB (557)                                         |                                 | merasa        |
+|     555 | NOUN (555)                                         |                                 | Barat         |
+|     553 | NOUN (553)                                         |                                 | Sabtu         |
+|     553 | ADJ (553)                                          | ADJ                             | tersangka     |
+|     552 | NOUN (552)                                         |                                 | The           |
+|     551 | NOUN (551)                                         | NOUN                            | bola          |
+|     550 | ADV (525), NOUN* (25)                              | ADJ, ADV, X                     | segera        |
+|     548 | CONJ (301), NOUN* (247)                            | ADP, CONJ                       | Kalau         |
+|     548 | VERB (548)                                         | VERB                            | datang        |
+|     546 | VERB (538), NOUN* (8)                              | ADJ, ADV, VERB                  | perlu         |
+|     546 | ADJ (544), NOUN* (2)                               | ADJ, ADP, CONJ                  | sementara     |
+|     545 | NOUN (545)                                         | NOUN                            | juara         |
+|     543 | VERB (543)                                         | ADP, ADV, VERB                  | mengenai      |
+|     543 | NOUN (543)                                         | NOUN                            | kota          |
+|     543 | VERB (543)                                         | VERB                            | mau           |
+|     539 | VERB (539)                                         | ADJ, VERB                       | mendatang     |
+|     539 | ADV (539)                                          | ADJ, ADV, VERB, X               | mungkin       |
+|     539 | ADV* (536), NOUN* (3)                              | ADP, CONJ, X                    | Setelah       |
+|     539 | NOUN (539)                                         | NOUN                            | masa          |
+|     536 | . (536)                                            |                                 | %             |
+|     535 | ADJ (535)                                          | ADJ, ADV, NOUN                  | lama          |
+|     532 | ADP (532)                                          | ADJ, ADP, X                     | tanpa         |
+|     532 | VERB (504), PRON (28)                              |                                 | ujarnya       |
+|     530 | VERB (530)                                         |                                 | meminta       |
+|     529 | NOUN (529)                                         | NOUN                            | Menteri       |
+|     527 | NOUN (512), PRON* (15)                             | ADP, NOUN, VERB                 | punya         |
+|     524 | NOUN (524)                                         |                                 | KOMPAS.com    |
+|     524 | NOUN (524)                                         |                                 | Timur         |
+|     522 | NUM* (522)                                         | ADJ, ADV, PRON, X               | seluruh       |
+|     521 | PRON* (508), ADV (13)                              | ADJ, ADV                        | akhirnya      |
+|     518 | ADJ (518)                                          | ADJ, ADV, NOUN, X               | tinggi        |
+|     518 | CONJ (514), NOUN* (4)                              | CONJ                            | Jika          |
+|     514 | NOUN (514)                                         | NOUN                            | partai        |
+|     512 | VERB (512)                                         | VERB                            | meraih        |
+|     510 | NOUN (510)                                         | NOUN                            | wilayah       |
+|     509 | NOUN (509)                                         | NOUN                            | nama          |
+|     494 | ADJ (491), NOUN* (3)                               | ADJ, ADV                        | penting       |
+|     494 | CONJ (446), NOUN* (48)                             | ADP, CONJ                       | Meski         |
+|     493 | NOUN (493)                                         | NOUN                            | Piala         |
+|     492 | CONJ (385), NOUN (107)                             | ADP, CONJ, NOUN                 | Karena        |
+|     487 | NOUN (487)                                         | ADP, NOUN                       | per           |
+|     487 | NOUN (487)                                         |                                 | Kita          |
+|     485 | VERB (485)                                         | VERB                            | membawa       |
+|     485 | NOUN (485)                                         | ADJ, NOUN, VERB                 | jalan         |
+|     483 | NOUN* (483)                                        | ADJ, ADV, X, X                  | sekarang      |
+|     481 | ADV (481)                                          | ADV                             | paling        |
+|     481 | ADJ (481)                                          | ADJ                             | terbaik       |
+|     472 | NOUN (472)                                         |                                 | Amerika       |
+|     470 | VERB (470)                                         | VERB                            | menghadapi    |
+|     470 | NOUN (470)                                         |                                 | WIB           |
+|     470 | NOUN (470)                                         | NOUN                            | acara         |
+|     469 | NOUN (457), ADV (12)                               |                                 | semakin       |
+|     469 | NOUN (469)                                         |                                 | Milan         |
+|     468 | NOUN (468)                                         | NOUN                            | proses        |
+|     467 | CONJ (305), NOUN* (161), NUM* (1)                  | ADV, CONJ, X, X                 | yaitu         |
+|     466 | NOUN (466)                                         | NOUN                            | negeri        |
+|     465 | NOUN (465)                                         | NOUN, X                         | Kepala        |
+|     465 | NOUN (465)                                         | NOUN                            | dana          |
+|     463 | NOUN (463)                                         | NOUN                            | kerja         |
+|     462 | NOUN (462)                                         | NOUN                            | gelar         |
+|     459 | VERB (459)                                         | ADJ, VERB                       | menerima      |
+|     459 | NOUN (459)                                         | NOUN                            | jumlah        |
+|     459 | NOUN (459)                                         | ADJ, NOUN, X                    | wanita        |
+|     458 | NOUN (458)                                         | NOUN                            | program       |
+|     454 | NOUN (454)                                         | NOUN                            | film          |
+|     454 | PRON (449), NOUN* (3), VERB* (2)                   | ADJ, ADV, PRON                  | begitu        |
+|     453 | PRON (275), ADV (175), NOUN* (3)                   | ADV, PRON                       | demikian      |
+|     452 | VERB (452)                                         | VERB                            | menambahkan   |
+|     451 | NOUN (451)                                         | NOUN                            | pasar         |
+|     450 | VERB* (266), NOUN (184)                            | ADJ, NOUN                       | bakal         |
+|     449 | ADJ (449)                                          | ADJ, X                          | utama         |
+|     449 | NOUN (449)                                         | NOUN                            | Komisi        |
+|     445 | NUM (445)                                          |                                 | 20            |
+|     444 | NOUN (444)                                         |                                 | DKI           |
+|     444 | ADJ (444)                                          | ADJ                             | bagus         |
+|     443 | NOUN (442), PRON (1)                               |                                 | adanya        |
+|     439 | VERB (439)                                         | VERB                            | mencetak      |
+|     439 | ADV (438), NOUN (1)                                |                                 | maupun        |
+|     434 | NOUN (434)                                         |                                 | Kabupaten     |
+|     432 | NOUN (432)                                         |                                 | United        |
+|     431 | NUM (431)                                          |                                 | ketiga        |
+|     431 | NOUN (431)                                         | ADJ, NOUN                       | pria          |
+|     430 | VERB (429), ADJ (1)                                | ADJ, ADV, NOUN, VERB            | siap          |
+|     430 | NOUN (430)                                         | ADP, NOUN                       | akibat        |
+|     426 | NOUN (426)                                         |                                 | Eropa         |
+|     425 | VERB (345), NOUN* (80)                             | VERB, X                         | bekerja       |
+|     424 | ADV (424)                                          | ADJ, ADV, VERB                  | Jadi          |
+|     424 | ADJ (422), NOUN* (2)                               | ADJ, VERB                       | biasa         |
+|     424 | NOUN (424)                                         | NOUN                            | wartawan      |
+|     424 | ADJ (414), NOUN (10)                               | ADJ, NOUN                       | Umum          |
+|     423 | NOUN (423)                                         | ADJ, NOUN, VERB                 | rasa          |
+|     422 | NOUN* (422)                                        | ADJ, X                          | bawah         |
+|     421 | ADJ (421)                                          | ADJ                             | nasional      |
+|     418 | VERB (418)                                         | VERB                            | berlangsung   |
+|     418 | NOUN (418)                                         | ADJ, NOUN                       | calon         |
+|     417 | VERB (417)                                         |                                 | diketahui     |
+|     416 | ADJ (416)                                          | ADJ, NOUN                       | umum          |
+|     416 | ADV (416)                                          | ADV                             | bahkan        |
+|     416 | NOUN (416)                                         | ADJ, NOUN                       | keluarga      |
+|     416 | NOUN (416)                                         |                                 | final         |
+|     416 | VERB (415), NOUN* (1)                              | ADJ, VERB                       | usai          |
+|     415 | NOUN (390), ADJ (25)                               |                                 | Real          |
+|     415 | VERB (415)                                         | ADV, VERB, X                    | menang        |
+|     415 | ADJ (407), NOUN* (7), VERB (1)                     | ADJ, ADV, VERB                  | lanjut        |
+|     411 | ADV (411)                                          | ADV                             | Bahkan        |
+|     409 | NOUN (409)                                         |                                 | Italia        |
+|     409 | NOUN (409)                                         |                                 | Chelsea       |
+|     408 | NOUN (408)                                         | NOUN                            | pasangan      |
+|     408 | VERB (408)                                         | VERB                            | memberi       |
+|     406 | NOUN (406)                                         | NOUN                            | air           |
+|     404 | NOUN (404)                                         | ADJ, NOUN                       | politik       |
+|     404 | NOUN (404)                                         |                                 | Polri         |
+|     404 | ADJ (404)                                          | ADJ                             | muda          |
+|     403 | NOUN (403)                                         | NOUN                            | cara          |
+|     402 | VERB (402)                                         | VERB                            | menegaskan    |
+|     399 | NOUN* (399)                                        | ADJ, ADV, CONJ, X               | Tidak         |
+|     399 | NOUN (399)                                         | NOUN                            | kawasan       |
+|     399 | ADJ (398), NOUN* (1)                               | ADJ, X, X                       | kecil         |
+|     399 | NOUN (399)                                         | ADJ, NOUN                       | aksi          |
+|     398 | NOUN (398)                                         |                                 | Spanyol       |
+|     396 | VERB (396)                                         | VERB                            | memilih       |
+|     396 | ADJ (391), NOUN* (5)                               | ADJ, VERB                       | sesuai        |
+|     395 | ADJ (395)                                          | ADJ                             | terlihat      |
+|     392 | VERB (392)                                         |                                 | menjelaskan   |
+|     391 | NUM (391)                                          |                                 | enam          |
+|     391 | NOUN (391)                                         | NOUN                            | kesempatan    |
+|     390 | NOUN (390)                                         |                                 | ribu          |
+|     389 | NOUN (389)                                         | NOUN                            | surat         |
+|     388 | PRON (388)                                         | PRON                            | aku           |
+|     387 | VERB (387)                                         | ADJ, ADP, ADV, VERB, X          | menurut       |
+|     386 | NOUN (386)                                         | ADJ, NOUN, X                    | Wakil         |
+|     386 | VERB (386)                                         | VERB                            | menunjukkan   |
+|     385 | ADJ (383), NOUN* (2)                               | ADJ, X                          | resmi         |
+|     385 | NOUN (385)                                         |                                 | mana          |
+|     383 | VERB (383)                                         | VERB                            | membantu      |
+|     382 | ADJ (382)                                          | ADJ                             | keras         |
+|     381 | ADP (381)                                          | ADJ, ADP, CONJ, NOUN, VERB, X   | kurang        |
+|     381 | NOUN (381)                                         |                                 | Sebelumnya    |
+|     380 | VERB (380)                                         |                                 | dilansir      |
+|     380 | VERB (380)                                         | VERB                            | berusia       |
+|     380 | NOUN* (380)                                        | CONJ, PRON                      | Yang          |
+|     378 | PRON (378)                                         |                                 | pihaknya      |
+|     377 | . (377)                                            |                                 | --            |
+|     375 | NUM (375)                                          |                                 | 2             |
+|     375 | NOUN (373), NUM* (2)                               | ADP, NOUN                       | soal          |
+|     375 | NUM (375)                                          |                                 | 2011          |
+|     374 | NOUN (374)                                         | NOUN                            | lapangan      |
+|     373 | ADV (222), NUM* (121), ADJ* (30)                   | ADV, X                          | sebanyak      |
+|     373 | ADJ (355), NOUN* (18)                              | ADJ, VERB                       | yakin         |
+|     372 | ADV (218), ADP (70), CONJ (57), X* (21), NOUN* (6) | ADJ, ADP, ADV, CONJ             | Seperti       |
+|     372 | VERB (372)                                         | ADV, VERB                       | turun         |
+|     369 | ADV (305), VERB* (62), NOUN* (2)                   | ADJ, ADV, X                     | terlalu       |
+|     369 | NOUN (369)                                         | NOUN                            | Pemerintah    |
+|     368 | ADJ (364), NOUN (4)                                |                                 | jauh          |
+|     368 | NOUN* (368)                                        | ADJ, ADV                        | sekali        |
+|     367 | NOUN (367)                                         |                                 | Bandung       |
+|     366 | NOUN (366)                                         | NOUN                            | keputusan     |
+|     366 | ADP (287), NOUN* (79)                              | ADP, ADV, CONJ                  | Dari          |
+|     364 | NOUN (364)                                         |                                 | lokasi        |
+|     363 | NOUN* (363)                                        | ADV, DET                        | sang          |
+|     362 | NOUN (359), NUM* (3)                               | ADV, NOUN, X                    | jam           |
+|     362 | NOUN (362)                                         | NOUN                            | pelaku        |
+|     361 | NOUN (361)                                         |                                 | Gubernur      |
+|     361 | NUM (361)                                          |                                 | 3             |
+|     360 | VERB (360)                                         | ADP, ADV, VERB                  | naik          |
+|     360 | NOUN (360)                                         | ADJ, NOUN, VERB                 | Jalan         |
+|     360 | PRON (360)                                         |                                 | Itu           |
+|     359 | NUM (359)                                          |                                 | 2013          |
+|     359 | NOUN (359)                                         | ADP, ADV, NOUN                  | lawan         |
+|     356 | ADJ (299), NOUN* (57)                              | ADJ, ADV, X                     | pasti         |
+|     356 | ADJ (200), NOUN* (156)                             | ADJ, ADV                        | sering        |
+|     354 | VERB (354)                                         | VERB, X                         | mengikuti     |
+|     354 | NOUN (354)                                         | NOUN                            | petugas       |
+|     353 | VERB (353)                                         | VERB, X                         | bertahan      |
+|     352 | NOUN (352)                                         |                                 | Malaysia      |
+|     352 | NOUN (352)                                         |                                 | Bambang       |
+|     351 | NUM (351)                                          |                                 | 2009          |
+|     350 | NUM (350)                                          |                                 | 30            |
+|     349 | ADJ (349)                                          | ADJ                             | internasional |
+|     348 | VERB (348)                                         | VERB                            | menjalani     |
+|     347 | NOUN (347)                                         |                                 | Australia     |
+|     346 | NOUN (346)                                         |                                 | Jepang        |
+|     346 | NOUN (337), VERB (6), ADJ (3)                      | ADJ, NOUN, VERB                 | cedera        |
+|     346 | NOUN (346)                                         | NOUN                            | motor         |
+|     345 | NOUN (345)                                         | ADV, NOUN                       | kemarin       |
+|     344 | NOUN (344)                                         | NOUN                            | kompetisi     |
+|     344 | NOUN (344)                                         |                                 | Champions     |
+|     343 | NOUN (343)                                         | NOUN                            | serangan      |
+|     343 | ADJ (343)                                          | ADJ, ADV, NOUN, PRON            | sedikit       |
+|     341 | NOUN (341)                                         | NOUN                            | angka         |
+|     341 | NOUN (341)                                         |                                 | Barcelona     |
+|     341 | NOUN (341)                                         |                                 | Bali          |
+|     340 | NOUN (340)                                         |                                 | Manchester    |
+|     339 | NOUN (339)                                         | ADJ, NOUN                       | latihan       |
+|     339 | NOUN (339)                                         | NOUN                            | laporan       |
+|     338 | NOUN (338)                                         |                                 | Sedangkan     |
+|     338 | NOUN (338)                                         | NOUN, VERB                      | sekolah       |
+|     337 | NOUN (337)                                         | NOUN                            | korupsi       |
+|     336 | ADJ (326), NOUN* (10)                              | ADJ, ADP                        | sulit         |
+|     335 | NOUN (335)                                         | NOUN                            | kantor        |
+|     334 | VERB (334)                                         |                                 | digelar       |
+|     334 | NOUN (334)                                         | NOUN                            | peluang       |
+|     334 | NOUN (334)                                         |                                 | dulu          |
+|     333 | NOUN (333)                                         |                                 | Inter         |
+|     333 | VERB (333)                                         | VERB                            | ikut          |
+|     332 | VERB (332)                                         | VERB                            | menilai       |
+|     332 | NUM (332)                                          |                                 | 15            |
+|     331 | PRON (326), NOUN (5)                               |                                 | timnya        |
+|     330 | ADJ (329), NOUN* (1)                               | ADJ, ADP, ADV                   | dekat         |
+|     330 | NOUN (330)                                         | ADJ, NOUN                       | Utara         |
+|     329 | NOUN (329)                                         | NOUN                            | kemungkinan   |
+|     329 | NOUN (329)                                         | NOUN                            | Tim           |
+|     328 | NOUN (328)                                         | NOUN                            | kegiatan      |
+|     328 | NOUN (328)                                         | NOUN                            | kontrak       |
+|     328 | NOUN (328)                                         |                                 | City          |
+|     325 | NOUN (325)                                         |                                 | pertemuan     |
+|     325 | NOUN (325)                                         | NOUN                            | kelompok      |
+|     324 | NOUN (324)                                         |                                 | Demokrat      |
+|     324 | NOUN (324)                                         | NOUN                            | permainan     |
+|     323 | NOUN (323)                                         | NOUN                            | kendaraan     |
+|     322 | NOUN (322)                                         | NOUN                            | produk        |
+|     321 | NOUN (321)                                         | NOUN                            | Negeri        |
+|     321 | NOUN (321)                                         | ADJ, NOUN                       | Pusat         |
+|     320 | NOUN (320)                                         |                                 | Surabaya      |
+|     320 | NOUN (320)                                         | NOUN                            | hubungan      |
+|     319 | NOUN (319)                                         | NOUN                            | Direktur      |
+|     319 | VERB (319)                                         |                                 | ternyata      |
+|     319 | VERB (319)                                         | VERB                            | berjalan      |
+|     318 | NOUN* (232), VERB (86)                             | ADP, VERB                       | keluar        |
+|     318 | NUM (318)                                          |                                 | 12            |
+|     317 | NOUN (317)                                         |                                 | China         |
+|     317 | VERB* (289), ADJ (20), NOUN (8)                    | ADJ, NOUN                       | berat         |
+|     316 | X (316)                                            | X                               | kan           |
+|     316 | NOUN* (316)                                        | ADP, CONJ                       | Dan           |
+|     314 | NOUN (314)                                         | ADV, NOUN, PRON                 | Tak           |
