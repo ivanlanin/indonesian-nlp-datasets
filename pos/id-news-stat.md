@@ -68,7 +68,7 @@
 |    1587 | VERB (1587)                                        | ADJ, VERB, X                    | dapat         |
 |    1577 | ADV (1577)                                         | ADJ, ADV                        | saja          |
 |    1566 | PRON (1018), NOUN* (548)                           | PRON                            | Anda          |
-|    1546 | ADV (1546)                                         | ADJ, ADV, X, X                  | sangat        |
+|    1546 | ADV (1546)                                         | ADJ, ADV, X                     | sangat        |
 |    1536 | ADP (1536)                                         | ADP, VERB                       | bagi          |
 |    1513 | ADV (1513)                                         | ADJ, ADV, PRON                  | beberapa      |
 |    1503 | . (863), NOUN (640)                                |                                 | Rp            |
@@ -88,7 +88,7 @@
 |    1359 | NOUN (1359)                                        | NOUN                            | pertandingan  |
 |    1354 | ADP (1354)                                         | ADP, ADV, CONJ                  | hingga        |
 |    1346 | ADP (1346)                                         | ADP, ADV                        | secara        |
-|    1346 | ADJ (1346)                                         | ADJ, X, X                       | besar         |
+|    1346 | ADJ (1346)                                         | ADJ, X                          | besar         |
 |    1319 | PRON (1319)                                        | PRON                            | ia            |
 |    1300 | NOUN (1300)                                        | ADJ, NOUN                       | rumah         |
 |    1281 | VERB (1281)                                        |                                 | dilakukan     |
@@ -120,7 +120,7 @@
 |    1040 | CONJ (1040)                                        | CONJ                            | agar          |
 |    1040 | NOUN (1040)                                        | NOUN                            | warga         |
 |    1026 | CONJ (1026)                                        | ADP, ADV, CONJ                  | serta         |
-|    1024 | ADJ (1024)                                         | ADJ, ADV, PRON, X, X            | sendiri       |
+|    1024 | ADJ (1024)                                         | ADJ, ADV, PRON, X               | sendiri       |
 |    1017 | VERB (1013), ADP (4)                               |                                 | terhadap      |
 |    1014 | NOUN (1014)                                        | NOUN                            | kasus         |
 |    1008 | ADJ (1008)                                         | ADJ, ADP, CONJ                  | Sementara     |
@@ -225,7 +225,7 @@
 |     648 | NOUN (648)                                         | NOUN                            | Saat          |
 |     645 | NOUN (645)                                         | ADJ, ADV, NOUN, X               | sejumlah      |
 |     636 | ADV* (636)                                         | VERB, X                         | sempat        |
-|     632 | CONJ (359), NOUN* (271), VERB* (2)                 | ADV, CONJ, X, X                 | yakni         |
+|     632 | CONJ (359), NOUN* (271), VERB* (2)                 | ADV, CONJ, X                    | yakni         |
 |     628 | NOUN (628)                                         |                                 | miliar        |
 |     626 | ADJ (626)                                          |                                 | jelas         |
 |     625 | ADJ (514), NOUN (111)                              |                                 | mantan        |
@@ -309,7 +309,7 @@
 |     487 | NOUN (487)                                         |                                 | Kita          |
 |     485 | VERB (485)                                         | VERB                            | membawa       |
 |     485 | NOUN (485)                                         | ADJ, NOUN, VERB                 | jalan         |
-|     483 | NOUN* (483)                                        | ADJ, ADV, X, X                  | sekarang      |
+|     483 | NOUN* (483)                                        | ADJ, ADV, X                     | sekarang      |
 |     481 | ADV (481)                                          | ADV                             | paling        |
 |     481 | ADJ (481)                                          | ADJ                             | terbaik       |
 |     472 | NOUN (472)                                         |                                 | Amerika       |
@@ -319,7 +319,7 @@
 |     469 | NOUN (457), ADV (12)                               |                                 | semakin       |
 |     469 | NOUN (469)                                         |                                 | Milan         |
 |     468 | NOUN (468)                                         | NOUN                            | proses        |
-|     467 | CONJ (305), NOUN* (161), NUM* (1)                  | ADV, CONJ, X, X                 | yaitu         |
+|     467 | CONJ (305), NOUN* (161), NUM* (1)                  | ADV, CONJ, X                    | yaitu         |
 |     466 | NOUN (466)                                         | NOUN                            | negeri        |
 |     465 | NOUN (465)                                         | NOUN, X                         | Kepala        |
 |     465 | NOUN (465)                                         | NOUN                            | dana          |
@@ -382,7 +382,7 @@
 |     402 | VERB (402)                                         | VERB                            | menegaskan    |
 |     399 | NOUN* (399)                                        | ADJ, ADV, CONJ, X               | Tidak         |
 |     399 | NOUN (399)                                         | NOUN                            | kawasan       |
-|     399 | ADJ (398), NOUN* (1)                               | ADJ, X, X                       | kecil         |
+|     399 | ADJ (398), NOUN* (1)                               | ADJ, X                          | kecil         |
 |     399 | NOUN (399)                                         | ADJ, NOUN                       | aksi          |
 |     398 | NOUN (398)                                         |                                 | Spanyol       |
 |     396 | VERB (396)                                         | VERB                            | memilih       |
