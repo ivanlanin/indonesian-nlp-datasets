@@ -1,0 +1,6 @@
+{
+    "name": "ardwort/kateglo",
+    "require": {
+        "doctrine/dbal": "2.5.*@dev"
+    }
+}
